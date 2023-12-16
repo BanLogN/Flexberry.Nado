@@ -1,0 +1,1 @@
+docker-compose -p nado up -d

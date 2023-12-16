@@ -1,0 +1,54 @@
+﻿{
+  "name": "IISNadoНадо",
+  "modelName": "i-i-s-nado-надо",
+  "className": "Надо",
+  "nameSpace": "IIS.Nado",
+  "parentModelName": null,
+  "parentClassName": null,
+  "attrs": [
+    {
+      "name": "надо",
+      "type": "string",
+      "flexberryType": "string",
+      "notNull": false,
+      "defaultValue": "",
+      "stored": true,
+      "ordered": false
+    }
+  ],
+  "belongsTo": [],
+  "hasMany": [],
+  "projections": [
+    {
+      "name": "НадоE",
+      "modelName": "i-i-s-nado-надо",
+      "attrs": [
+        {
+          "name": "надо",
+          "caption": "Надо",
+          "hidden": false,
+          "index": 0
+        }
+      ],
+      "belongsTo": [],
+      "hasMany": []
+    },
+    {
+      "name": "НадоL",
+      "modelName": "i-i-s-nado-надо",
+      "attrs": [
+        {
+          "name": "надо",
+          "caption": "Надо",
+          "hidden": false,
+          "index": 0
+        }
+      ],
+      "belongsTo": [],
+      "hasMany": []
+    }
+  ],
+  "stored": true,
+  "offline": true,
+  "external": false
+}

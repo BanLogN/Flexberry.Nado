@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Надо",
+  "name": "IISNadoНадоE",
+  "className": "НадоE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-nado-надо",
+      "modelProjection": "НадоE"
+    }
+  ]
+}

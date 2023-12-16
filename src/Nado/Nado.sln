@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nado.Objects", "Objects/Nado.Objects.csproj", "{5926B4D6-9718-4053-BC7C-69225F61E565}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nado.ODataBackend", "ODataBackend/Nado.ODataBackend.csproj", "{E4A83B82-88D3-499E-A43A-4C6FFD09D1F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+Debug|Any CPU = Debug|Any CPU
+Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5926B4D6-9718-4053-BC7C-69225F61E565}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5926B4D6-9718-4053-BC7C-69225F61E565}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5926B4D6-9718-4053-BC7C-69225F61E565}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5926B4D6-9718-4053-BC7C-69225F61E565}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4A83B82-88D3-499E-A43A-4C6FFD09D1F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4A83B82-88D3-499E-A43A-4C6FFD09D1F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4A83B82-88D3-499E-A43A-4C6FFD09D1F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4A83B82-88D3-499E-A43A-4C6FFD09D1F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

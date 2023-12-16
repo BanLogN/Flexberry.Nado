@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-nado-надо-e",
+  "editForm": "i-i-s-nado-надо-e",
+  "external": false,
+  "caption": "Надо",
+  "name": "IISNadoНадоL",
+  "className": "НадоL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-nado-надо",
+      "modelProjection": "НадоL"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+﻿{
+  "applicationCaption": "Nado",
+  "applicationTitle": "Nado",
+  "items": [
+    {
+      "link": null,
+      "menuName": "nado",
+      "caption": "Nado",
+      "title": "Nado",
+      "children": [
+        {
+          "link": "i-i-s-nado-надо-l",
+          "menuName": null,
+          "caption": "Надо",
+          "title": "",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}
